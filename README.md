@@ -11,7 +11,7 @@
 
 ## Dentro de cada arquivo .html, deverá conter:
 
-- Menu de navegação com uma lista <li></li> não ordenada <ul></ul>;
+- Menu de navegação com uma lista &lt;li></li> não ordenada <ul></ul>;
 - Título <h1></h1> da página;
 - Um ou mais parágrafos <p></p> com informações da página
 
